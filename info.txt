@@ -1,0 +1,26 @@
+Create a student grade generating system.
+
+<========INSTRUCTIONS========>
+
+Create a class named Student with the following class attributes.
+    1)first name
+    2)second name
+    3)student id
+    4)marks
+
+Then create another class named Student manipulator.
+Then create an array of type Student and store relevant details of each student with marks.
+Imagine there are 20 students in a class.
+
+Student grades are generated under following basis.
+
+if marks < 39 : F
+if 39 < marks < 63 : D
+if 63 < marks < 75 : C
+if 75 < marks < 87 : B
+if 87 < marks <= 100 : A
+
+
+Print the details of each student with the accurate grade.
+
+Count no. of students of each grade and print.
